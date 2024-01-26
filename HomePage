@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>  
+    <link rel="stylesheet" href="styles.css">
+    <title>A Library for all Sorts of Ephemeral Pearls of Thought</title>
+    <a href="Current/SculpturalWork"    
+</head>
+<body>
+    <h2>Current Portfolio:</h2>
+    <a href="Current/SculpturalWork" title="where the sculptures live :3">Sculptural Work</a>
+    <a href="Current/DrawingsPaintings" title="dont worry about the concerning ones ahaha">Drawings and Paintings</a>
+    <a href="Current/TimeBased" title="there's very few of these because I am afraid of them"> Time-based Media</a>
+
+    <h2>Archives</h2>
+    <a href="Archives/Digital"> Digtal work Archive</a>
+    <a href="Archives/FinishedDrawings"> Drawing Archive</a>
+    <a href="Archives/Sketchbook"> Sketchbook Archive</a>
+    <a href="Archives/Writings"> Writings Archive</a>
+
+</body>
